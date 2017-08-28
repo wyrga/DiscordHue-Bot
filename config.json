@@ -1,0 +1,17 @@
+{
+
+    "token": "**DISCORD BOT TOKEN GOES HERE**",
+    "username": "**ADMIN'S DISCORD NAME GOES HERE**",
+    "prefix": "! **PREFIX FOR COMMANDS**",
+    "username":"**HUE BRIDGE USERNAME GOES HERE**",
+    "hostname":"**IP GOES HERE, WHY IS IT CALLED HOSTNAME YOU ASK, WELL BECAUSE I'M TOO LAZY TO CHANGE IT AT THIS POINT**",
+    "lights": [1,2,3],
+    "colors":[
+	{"name":"yellow", "rgb":[255, 255, 0]},
+	{"name":"green",  "rgb":[0, 255, 0]},
+	{"name":"blue", "rgb":[0, 0, 255]},
+	{"name":"red","rgb":[255,0,0]},
+	{"name":"pink", "rgb":[255,20,147]}
+    ],
+    "commands":["RGB", "colorsAvailable", "setColor", "hello", "game", "disconnect", "lightsOn", "lightsOff", "help"]
+ }
